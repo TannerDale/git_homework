@@ -6,3 +6,6 @@
 # Two things I am going to commit to
 1. Admitting when I don't know something
 2. Following the pomodoro technique
+
+
+## Shoutout to Sawaez for being a consistent and pleasant person!
