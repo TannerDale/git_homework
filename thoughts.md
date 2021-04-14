@@ -9,5 +9,3 @@
 
 
 ## Shoutout to Sawaez for being a consistent and pleasant person!
-
-I enjoy this stuffs.
